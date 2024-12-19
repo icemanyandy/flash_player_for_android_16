@@ -1,5 +1,7 @@
 # flash_player_for_android_9.0
-目前支持到了12 ，目前已经在oppo 12 和鸿蒙系统上测试过，请下载安卓测试final swfplayer
+support android  6 ~ 16
+
+目前支持到了16 ，目前已经在oppo 12 和鸿蒙系统上测试过，请下载安卓测试final swfplayer
 
 
           其实不是什么新技术，因为android4.1之后的android 浏览器内核版本发生了变化导致 Adobe 的Flash插件无法正常运行，大家的Flash无法正常播放。而网络上所能搜索到的方法全是WebView的方式，从而浪费了很多开发的搜索测试的时间。所以本人为了大家少走弯路让进入的每一个读者深入了解flash是如何播放，如何在android上面的各个版本中体验。
