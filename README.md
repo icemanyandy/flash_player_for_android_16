@@ -1,4 +1,4 @@
-# flash_player_for_android_9.0
+# flash_player_for_android_16
 support android  6 ~ 16
 
 目前支持到了16 ，目前已经在oppo 12 和鸿蒙系统上测试过，请下载安卓测试final swfplayer
@@ -20,7 +20,7 @@ https://pan.baidu.com/s/1QyR1TUiyk8KbCNhjm17o5w?pwd=c75y
 不需要安装插件。因为本人经过移植已经将flash打包在了 FlashPlayer里面了  本人AS2.0 方案同样支持触摸和按键哦，载入熟读非常好，运行性能好，已经用于多个项目。
 
 
-# flash_player_for_android_6.0
+# flash_player_for_android_16.0
 In fact, is not a new technology, because the Android android4.1 browser after the kernel version of the Adobe Flash plug-in can not be normal operation, we can not play the normal Flash. And the method that can search on the network is all the way of WebView, and waste a lot of time of developing the search test. So I for everyone to take less detours to get into the depth of each reader to understand how flash is played, how to experience the various versions of the Android above.
 FLASH swf format from the development language is divided into AS2 and AS 3 and the 2 Flash language development Adobe architecture perspective is different, resulting in flash 2 and flash 3 in the Android operation experience is completely different.
 For FLASH AS3.0
